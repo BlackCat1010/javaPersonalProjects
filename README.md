@@ -1,5 +1,5 @@
 # javaPersonalProjects
-Just keeping them here
+Just keeping personal coding Projects here using JAVA
 
 ### 17 April 205 ###
 First project. 
