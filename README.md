@@ -12,3 +12,7 @@ use System Settings for UI to be centralised.
 
 ### 18 April 2025 ###
 Added randompasswordGenerator
+
+
+## 19 April 2025 ###
+Added toDoList
